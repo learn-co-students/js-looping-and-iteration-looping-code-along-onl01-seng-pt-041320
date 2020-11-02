@@ -13,16 +13,16 @@ function writeCards(names, x) {
 
 writeCards(names, x);
 
-// function countDown() {
-//    let i = 11
-//    while (i > 0) {
-//        console.log(`${i}`);
-//        i--
-//     }
-//   }
-function countDown (i) {
-    while (i >= 0){
-        console.log(i);
-        i--;
+function countDown() {
+   let i = 11
+   while (i > 0) {
+       console.log(`${i}`);
+       i--
     }
-}
+  }
+// function countDown (i) {
+//     while (i >= 0){
+//         console.log(i);
+//         i--;
+//     }
+// }
