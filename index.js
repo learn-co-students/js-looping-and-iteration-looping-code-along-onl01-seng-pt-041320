@@ -19,5 +19,4 @@ function writeCards(array, event) {
         while (i <= number) {
         console.log(number--);
         }
-
   }
